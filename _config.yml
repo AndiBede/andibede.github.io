@@ -1,9 +1,9 @@
 encoding: UTF-8
 timezone: Europe/Bucharest
-url: http://andibede.github.io
+url:
 
 # site
-title: site.title
+title: NMR diffusometry and relaxometry laboratory
 subTitle: site.subtitle
 description:  site.description
 
