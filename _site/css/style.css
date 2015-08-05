@@ -1,0 +1,15 @@
+* {
+    border: 1px dashed red;
+}
+
+body {
+    background-color: darkslategray;
+}
+
+.banner {
+    width:100%;
+    height:auto;
+    background-image:url('/images/banner.png');
+    background-size:contain;
+    background-repeat: no-repeat;
+}
