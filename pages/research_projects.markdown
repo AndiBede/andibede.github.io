@@ -3,7 +3,7 @@ layout: default
 title: Research/Projects
 id: 5
 ---
-(/images/research poza.jpg "NMR diffusometry and relaxometry research")
+! (/images/research poza.jpg "NMR diffusometry and relaxometry research")
 
 Research interest
 =================
