@@ -15,7 +15,7 @@ ___________________________
 
   * I. Ardelean and R. Kimmich ”Principles and unconventional aspects of NMR diffusometry”, in “Annual Reports on NMR Spectroscopy”, vol. 49,pag.43 (Ed. G.A.Webb), Academic Press, 2003
 
-B. Papers in ISI indexed journals
+**B. Papers in ISI indexed journals**
 _________________________________
 
 1.      D.E.Demco, and I. Ardelean, Spatial Localised Single Quantum Heteronuclear Polarisation Transfer, Acta Physica Polonica A86, (3), 407-425(1994).
@@ -81,7 +81,7 @@ _________________________________
 39. A. Pop, C. Badea and I. Ardelean, The Effects of Different Superplasticizers and Water-to-Cement Ratios on the Hydration of Gray Cement Using T2-NMR,
        Appl. Magn. Reson. 44, 1223-1234 (2013)
 
-C. Papers in referred journals
+**C. Papers in referred journals**
 
 1.      I. Ardelean, and D.E.Demco, Double Quantum Cross-Polarization with Restricted Molecular Motion, Rom. Journ. Phys. 37, (8), 783- 792(1992).
 2.      I. Ardelean, and D.E. Demco, Dynamic Theory of Cross-Polarization under Fast Magic Angle Sample Spinning, Rom. Journ. Phys. 38, (7), 711- 716(1993).
@@ -100,7 +100,7 @@ C. Papers in referred journals
 10.    R. Nechifor, C. Badea and I. Ardelean, Nuclear magnetic resonance studies of liquids morphology inside partially saturated porous media, Journal of    
           Physics: Conference Series 182,  012012 (2009)
 
-D. The most important conference presentations in the last 10 Years
+**D. The most important conference presentations in the last 10 Years**
 
  1.     I. Ardelean, C. Mattea, G. Fahhrer, R. Kimmich, Molecular diffusion in partially filled porous media: NMR investigations, The AMPERE XI NMR SCHOOL, 
          Zakopane (Poland)  June 1-6, 2003 (oral presentation)
