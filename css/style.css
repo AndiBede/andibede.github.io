@@ -3,5 +3,9 @@
 }
 
 body {
-    background-color: darkslategrey;
+
+    background:
+        -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f2f2), color-stop(54%,#ffffff), color-stop(100%,#fefffb)),
+        -webkit-linear-gradient(top, #f2f2f2 0%,#ffffff 54%,#fefffb 100%); /* Chrome10+,Safari5.1+ */
+    background-repeat: no-repeat;
 }
