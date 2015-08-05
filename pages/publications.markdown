@@ -3,9 +3,9 @@ layout: default
 title: Publications
 id: 4
 ---
-
 A. Books/Monographic papers
-___________________________
+---------------------------
+
 
   * I. Ardelean, [Rezonanta Magnetica Nucleara pentru ingineri] (/assets/rmn_pentru_ingineri.zip), Editura U.T. Press, Cluj-Napoca, 2013, ISBN: 978-973-662-905-1 
 
@@ -16,7 +16,8 @@ ___________________________
   * I. Ardelean and R. Kimmich ”Principles and unconventional aspects of NMR diffusometry”, in “Annual Reports on NMR Spectroscopy”, vol. 49,pag.43 (Ed. G.A.Webb), Academic Press, 2003
 
 **B. Papers in ISI indexed journals**
-_________________________________
+-------------------------------------
+
 
 1.      D.E.Demco, and I. Ardelean, Spatial Localised Single Quantum Heteronuclear Polarisation Transfer, Acta Physica Polonica A86, (3), 407-425(1994).
 2.      D. E. Demco, S. Hafner and I. Ardelean, R. Kimmich, Localised heteronuclear cross-polarisation in solids by double quantum transitions, Appl. Magn. Reson.           9, 491-  507(1995).
@@ -82,6 +83,7 @@ _________________________________
        Appl. Magn. Reson. 44, 1223-1234 (2013)
 
 **C. Papers in referred journals**
+---
 
 1.      I. Ardelean, and D.E.Demco, Double Quantum Cross-Polarization with Restricted Molecular Motion, Rom. Journ. Phys. 37, (8), 783- 792(1992).
 2.      I. Ardelean, and D.E. Demco, Dynamic Theory of Cross-Polarization under Fast Magic Angle Sample Spinning, Rom. Journ. Phys. 38, (7), 711- 716(1993).
@@ -101,6 +103,7 @@ _________________________________
           Physics: Conference Series 182,  012012 (2009)
 
 **D. The most important conference presentations in the last 10 Years**
+---
 
  1.     I. Ardelean, C. Mattea, G. Fahhrer, R. Kimmich, Molecular diffusion in partially filled porous media: NMR investigations, The AMPERE XI NMR SCHOOL, 
          Zakopane (Poland)  June 1-6, 2003 (oral presentation)
@@ -114,11 +117,10 @@ _________________________________
           Conference on  NMR in Porous Media, 2006, Bologna (invited speaker)
  6.     I. Ardelean, G. Farrher, R. Kimmich, Molecular dynamics under confinement in partially filled nano- and micro- structured samples: NMR investigations,  
          XXII Conference on Radio and Microwave Spectroscopy RAMIS 2007, April 22- 25,  Bedlewo-Poznan, Poland (invited speaker).
-7.      I. Ardelean, M. Bogdan, C. Badea, A. Parnau, NMR diffusion and relaxation studies of molecules confined inside core-shell polymeric capsules, 9th       
+ 7.      I. Ardelean, M. Bogdan, C. Badea, A. Parnau, NMR diffusion and relaxation studies of molecules confined inside core-shell polymeric capsules, 9th       
          Bologna Conference on Magnetic Resonance in Porous Media, 13-17 Iulie, 2008 Boston, USA (poster)
-8.      I. Ardelean, Nuclear Magnetic Resonance investigations on partially saturated porous media, 11th Central and Eastern European Bruker Users Meeting, 
+ 8.      I. Ardelean, Nuclear Magnetic Resonance investigations on partially saturated porous media, 11th Central and Eastern European Bruker Users Meeting, 
          October 4-6,  2009, Cluj-Napoca (invited speaker),
-9.      I. Ardelean M. Simina, S. Muncaci, Relaxation of polar and nonpolar molecules confined inside partially saturated porous media with ferromagnetic 
-         impurities, 10th  Bologna Conference on Magnetic Resonance in Porous Media, 12-16 Sept. 2010, Leipzig, Germania (poster)
-10.    I. Ardelean, S. Muncaci, C. Mattea, S. Stapf, NMR relaxation of fluids confined inside porous media with magnetic impurities, 8th Conference on FFC NMR  
+ 9.      I. Ardelean M. Simina, S. Muncaci, Relaxation of polar and nonpolar molecules confined inside partially saturated porous media with ferromagnetic impurities, 10th  Bologna Conference on Magnetic Resonance in Porous Media, 12-16 Sept. 2010, Leipzig, Germania (poster)
+ 10.    I. Ardelean, S. Muncaci, C. Mattea, S. Stapf, NMR relaxation of fluids confined inside porous media with magnetic impurities, 8th Conference on FFC NMR  
          Relaxometry, 23-25 May 2013, Turin, Italy (invited speaker)
