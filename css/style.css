@@ -1,3 +1,7 @@
+* {
+    border: 1px dashed red;
+}
+
 body {
-    padding-top: 65px;
+    background-color: darkslategrey;
 }
