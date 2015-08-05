@@ -30,3 +30,5 @@ Project CEEX MATNANTECH 58/2006-2008: NMR studies of molecular dynamics inside p
   * **Project CERES 4-36/4.11.2004** (financed by the Romanian Ministry for Education and Research) 15.11.2004-15.11.2006: Principles and unconventional aspects of NMR diffusometry of confined liquids. Description: The role of the internal gradients in diffusion measurements with conventional techniques is discussed. The solutions to avoid internal gradient effects on diffusion measurements are proposed (the role: project director).
 
   * **Grant CNCSIS type A/ 1292/2006** (financed by the Romanian Ministry for Education and Research)1.03.2007-15.09.2008: Dynamics of polar and non polar molecules under confinement in nanometric and micrometric pores .Description:The dynamics o water and cyclohexane molecules under confinement conditions inside porous glasses (Vycor, VitraPor) is monitored using NMR diffusometry and relaxometry techniques. The effect of the polarity on molecular dynamics is discussed (the role: project director).
+
+[jekyll-help]: https://github.com/jekyll/jekyll-help
