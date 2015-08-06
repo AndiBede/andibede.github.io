@@ -1,5 +1,5 @@
 <body>
-    <!--div class="container-fluid">
+    <div class="container"-->
 
         <!-- Banner -->
         <div class="row text-center">
@@ -7,7 +7,7 @@
                 <img src="/images/banner.png" class="img-responsive">
 
                 <!-- Navigation Bar -->
-                <nav role="navigation" class="navbar navbar-center navbar-inverse">
+                <nav role="navigation" class="navbar nav-padding navbar-inverse nav-color">
 
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header">
@@ -22,15 +22,16 @@
                     <!-- Collection of nav links and other content for toggling -->
                     <div id="navbarCollapse" class="collapse navbar-collapse">
                         <ul class="nav navbar-nav">
-                             <li class="active"><a href="#">Home</a></li>
-                            {% for page in site.pages %}
-                            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-                            {% endfor %}
 
+                            {% assign sorted_pages = site.pages | sort:"order" %}
+                            {% for p in sorted_pages %}
+                            <li {% if p.url == page.url %}class="active"{% endif %}><a  href="{{ p.url }}">{{ p.title }}</a></li>
+                            {% endfor %}
                         </ul>
                     </div>
                 </nav>
             </div>
         </div>
+
 
 

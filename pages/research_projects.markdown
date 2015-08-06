@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Research/Projects
-id: 5
 breadcrumb: Research/Projects
+order: 5
 ---
 ![NMR projects](/images/research poza.jpg "NMR diffusometry and relaxometry research")
 
