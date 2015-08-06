@@ -4,7 +4,7 @@ title: Research/Projects
 id: 5
 breadcrumb: Research/Projects
 ---
-![NMR projects] (/images/research poza.jpg "NMR diffusometry and relaxometry research")
+![NMR projects](/images/research poza.jpg "NMR diffusometry and relaxometry research")
 
 Research interest
 =================
@@ -18,9 +18,9 @@ In our laboratory we are also interested in developing of new NMR techniques sui
 Research projects of the group
 ------------------------------
 
-  * **[Project PN II ID PCE 3-0238/ 2011-2014] http://idei305.weebly.com/**: Nuclear magnetic resonance studies of surface effects on dynamics of molecules confined inside porous media with magnetic impurities. Description: Porous ceramics with controlled amount of magnetic impurities are produced and characterized. The role of internal gradients in NMR measurements of molecules at the interface of such samples is investigated. This allows a better interpretation of the measured data and the development of new techniques (the role: project director).
+  * **[Project PN II ID PCE 3-0238/ 2011-2014](http://idei305.weebly.com/)**: Nuclear magnetic resonance studies of surface effects on dynamics of molecules confined inside porous media with magnetic impurities. Description: Porous ceramics with controlled amount of magnetic impurities are produced and characterized. The role of internal gradients in NMR measurements of molecules at the interface of such samples is investigated. This allows a better interpretation of the measured data and the development of new techniques (the role: project director).
 
-  * **[Joint research project] (http://www.tu-ilmenau.de/techphys2/)** with Technical University Ilmenau, Germany (funded by the [Alexander von Humboldt] (https://www.humboldt-foundation.de/web/start.html) foundation) 2011-2014: Molecular dynamics during the phase transition of liquids confined inside porous media. Description: The surface effect on mobility of molecules confined inside porous media is studied both as a function of temperature and their polar/nonpolar character. The saturated and partially saturated conditions are considered. The case of unfrozen layer in porous media is investigated (the role: project director).
+  * **[Joint research project](http://www.tu-ilmenau.de/techphys2/)** with Technical University Ilmenau, Germany (funded by the [Alexander von Humboldt] (https://www.humboldt-foundation.de/web/start.html) foundation) 2011-2014: Molecular dynamics during the phase transition of liquids confined inside porous media. Description: The surface effect on mobility of molecules confined inside porous media is studied both as a function of temperature and their polar/nonpolar character. The saturated and partially saturated conditions are considered. The case of unfrozen layer in porous media is investigated (the role: project director).
 
   * **Project PN2-NANOQMED 61-002/2007-2010**: Obtaining and characterization of new target nano-medicines with naftochinonic active substance. Description: In the frame of the project new polymeric capsules containing drugs of naftochinonic nature were produced and characterized with respect to their release properties and thermal stability. Biological tests of these encapsulated drugs were also performed by our partners (the role: project director).
 Project CEEX MATNANTECH 58/2006-2008: NMR studies of molecular dynamics inside polymeric nanocapsules. Description:  In the frame of the project new core-shell polymeric capsules to be used as drug carriers were produced and characterized with respect to their stability and transport properties of the polymeric shell (the role: project coordinator).
