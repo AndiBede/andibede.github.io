@@ -2,6 +2,7 @@
 layout: default
 title: Publications
 id: 4
+breadcrumb: Publications
 ---
 A. Books/Monographic papers
 ---------------------------

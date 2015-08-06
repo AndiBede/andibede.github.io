@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Equipment
+title: Test
+active: test
+breadcrumb: Test
 ---
 
 
