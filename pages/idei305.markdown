@@ -5,7 +5,7 @@ breadcrumb: IDEI305
 order: 6
 ---
 
-[Go to the WEBPAGE of the project PN-II-IDEI-305/2011] (http://idei305.weebly.com)
+![Go to the WEBPAGE of the project PN-II-IDEI-305/2011] (http://idei305.weebly.com)
 ============
 
 ### Project title:  
