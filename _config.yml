@@ -15,6 +15,9 @@ author: author
 markdown: kramdown
 permalink: pretty
 
+#gems
+gems:
+  - jekyll-sitemap
 
 # social links
 social:
@@ -29,3 +32,6 @@ social:
 
 # simple form token
 simpleform_token: blank
+
+# google analytics
+google_analytics_id: blank

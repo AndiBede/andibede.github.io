@@ -22,7 +22,6 @@
                     <!-- Collection of nav links and other content for toggling -->
                     <div id="navbarCollapse" class="collapse navbar-collapse">
                         <ul class="nav navbar-nav">
-
                             {% assign sorted_pages = site.pages | sort:"order" %}
                             {% for p in sorted_pages %}
                             <li {% if p.url == page.url %}class="active"{% endif %}><a  href="{{ p.url }}">{{ p.title }}</a></li>
