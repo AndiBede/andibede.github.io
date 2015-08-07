@@ -12,4 +12,20 @@ Note studenți
 
 ###Cartea si lista probleme seminar
 
-[Download]
+Fizica pentru ingineri - [Download]
+
+Lista de probleme de la seminar - [Download]
+
+###Lista lucrari laborator fizica (TCM+Roboti)
+
+lucrarilaborator - limba română - [Download]
+
+lucrarilaborator - English - [Download]
+
+lucrarilaborator - Deutsch - [Download]
+
+
+###Lista probleme seminar (TCM + Roboti germana)
+
+physik_aufgaben_18_nov_2013 [Download]
+
