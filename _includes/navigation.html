@@ -24,7 +24,9 @@
                         <ul class="nav navbar-nav">
                             {% assign sorted_pages = site.pages | sort:"order" %}
                             {% for p in sorted_pages %}
+                            {% if p.order < 90 %}
                             <li {% if p.url == page.url %}class="active"{% endif %}><a  href="{{ p.url }}">{{ p.title }}</a></li>
+                            {% endif %}
                             {% endfor %}
                         </ul>
                     </div>
