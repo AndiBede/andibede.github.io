@@ -1,7 +1,6 @@
 ---
 layout: default
 title: IDEI305
-breadcrumb: IDEI305
 order: 6
 ---
 

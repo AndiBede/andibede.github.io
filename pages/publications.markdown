@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Publications
-breadcrumb: Publications
 order: 4
 ---
 

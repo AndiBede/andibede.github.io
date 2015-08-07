@@ -1,9 +1,10 @@
 * {
-    border: 1px dashed red;
+    border: 0px dashed red;
     max-width: 100%;
 }
 
 img {
+    height: auto;
     max-width: 100%;
 }
 
