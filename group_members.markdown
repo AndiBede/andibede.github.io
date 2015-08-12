@@ -12,10 +12,10 @@ order: 6
  {% for page in sorted_pages %}
     {% if page.category == "Members" %}
         <div class="row">
-            <div class="col-lg-4">
-                <img class ="img-resposiveve" src="/images/{{ page.image }}" height="100" width="100">
+            <div class="col-lg-2">
+                <img class ="img-responsive" src="/images/{{ page.image }}" height="100" width="100">
             </div>
-            <div class="col-lg-8">
+            <div class="col-lg-10">
             {{ page.content }}
             </div>
         </div>
@@ -28,10 +28,10 @@ order: 6
 {% for page in sorted_pages %}
     {% if page.category == "Former Members" %}
      <div class="row">
-     <div class="col-lg-4">
-        <img class ="img-resposiveve" src="/images/{{ page.image }}" height="100" width="100">
+     <div class="col-lg-2">
+        <img class ="img-resposive" src="/images/{{ page.image }}" height="100" width="100">
     </div>
-    <div class="col-lg-8">
+    <div class="col-lg-10">
         {{ page.content }}
     </div>
     </div>
