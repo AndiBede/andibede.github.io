@@ -4,7 +4,8 @@ title: Group Members
 order: 6
 ---
 
-:-------------------------------------------------------------------------------------------   |--------------------------------------:
-![prof.dr.fiz Ioan Ardean|width=700px](/images/ardelean.jpg "prof.dr.fiz Ioan Ardean")         | asdasdasdsa                        |
-:-------------------------------------------------------------------------------------------   |--------------------------------------:
-asdasdas                                                                                       | asdasd                            |
+| Person | Description |
+|-------- |----------------------|
+|![Prof.dr.fiz Ioan Ardelean](/images/ardelean.jpg "Prof.dr.fiz Ioan Ardelean")  | **Prof.dr. Ioan Ardelean** - group leader (short CV and publications)|      
+| ------ | ----- |
+|![Codruta](/images/codruta.jpg "Lecturer dr. Codruta Manuela Badea")| Lecturer dr. Codruta Manuela Badea
