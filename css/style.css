@@ -3,9 +3,27 @@
     max-width: 100%;
 }
 
+p {
+    font-size: 1em;
+}
+
+h1 {
+    font-size: 1.375em;
+}
+
+h2 {
+    font-size: 1.25em;
+}
+
+h3 {
+    font-size: 1.125em;
+}
+
 img {
     height: auto;
     max-width: 100%;
+    display: block;
+    margin: auto;
 }
 
 body {
