@@ -1,5 +1,5 @@
 ---
-category: Members
+category: Former Members
 order: 101
 image: muncaci.jpg
 ---
