@@ -1,7 +1,7 @@
 ---
 category: Equipment
 order: 101
-image: bruker.jpg
+image: other.png
 ---
 
 content
