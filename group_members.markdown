@@ -5,7 +5,6 @@ order: 6
 ---
 
 <div class="container">
-<hr>
 <h1>Current group members</h1>
 <hr>
  {% assign sorted_pages = site.pages | sort:"order" %}
@@ -21,7 +20,7 @@ order: 6
         </div>
         <br>
     {% endif %}
-{% endfor %}
+{% endfor %}0px dashed red
 <hr>
 <h1>Former Members</h1>
 <hr>
