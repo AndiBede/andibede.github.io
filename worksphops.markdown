@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Workshops
-order: 3
+order: 6
 ---

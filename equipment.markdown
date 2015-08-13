@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Equipment
-order: 2
+order: 3
 ---
 
 <div class="container">

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teaching
-order: 5
+order: 8
 ---
 
 Note studenți

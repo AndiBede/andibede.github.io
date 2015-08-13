@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research/Projects
-order: 5
+order: 4
 ---
 ![NMR projects](/images/research poza.jpg "NMR diffusometry and relaxometry research")
 

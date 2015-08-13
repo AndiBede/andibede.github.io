@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Group Members
-order: 6
+order: 2
 ---
 
 <div class="container">
@@ -20,7 +20,7 @@ order: 6
         </div>
         <br>
     {% endif %}
-{% endfor %}0px dashed red
+{% endfor %}
 <hr>
 <h1>Former Members</h1>
 <hr>
