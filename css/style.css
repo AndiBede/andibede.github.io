@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 * {
     border: 0px dashed red;
+=======
+/* * {
+    border: 1px dashed red;
+>>>>>>> andibede.github.io/master
     max-width: 100%;
 }
-
+*/
 p {
     font-size: 1em;
 }
