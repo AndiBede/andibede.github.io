@@ -4,7 +4,7 @@ order: 100
 image: bruker.jpg
 ---
 
-#[Bruker MINISPEC MQ20](http://www.bruker.com/products/mr/td-nmr/minispec-mq-series.html)
+#[Bruker MINISPEC MQ20](http://www.bruker.com/products/mr/td-nmr/minispec-mq-series.html){:target="_blank"}
 time domain analyzer:
 
 - Operating field: B=0.47 T;
