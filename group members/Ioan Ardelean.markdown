@@ -5,4 +5,4 @@ image: ardelean.jpg
 ---
 Prof.dr. Ioan Ardelean - group leader (short CV and publications)
 ---
-content
+

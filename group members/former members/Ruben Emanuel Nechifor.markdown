@@ -5,6 +5,4 @@ image: ruben.jpg
 ---
 Dr. Ruben Emanuel Nechifor
 ---
-
-content
-
+His research was focused on production and NMR characterisation of new polymeric nanocapsules to be used in drug delivery.
