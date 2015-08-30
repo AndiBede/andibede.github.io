@@ -4,17 +4,9 @@ order: 103
 title: Research Team
 layout: idei305
 ---
-
-home
-============
-
-### Project title:  
-
-The surface effects on the dynamics of molecules confined inside porous media with magnetic impurities 
----
-
-**Project director:** Prof.dr.fiz. Ioan Ardelean
-
-**Financing interval:** 5.10.2011-30.09.2014
-
-
+* Prof.dr. Ioan Ardelean - project director
+* Sef. lucr. dr. Codruta Badea - researcher
+* Dr. Ruben Emanuel Nechifor - researcher
+* Dr. Marius Simina - researcher
+* Dr. Sergiu Muncaci - researcher
+* Eng. Alexandra Daniela Pop - research assistant

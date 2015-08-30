@@ -4,18 +4,5 @@ order: 109
 title: Workshop
 layout: idei305
 ---
-
-home
-============
-
-### Project title:  
-
-The surface effects on the dynamics of molecules confined inside porous media with magnetic impurities 
----
-
-**Project director:** Prof.dr.fiz. Ioan Ardelean
-
-**Financing interval:** 5.10.2011-30.09.2014
-
-
-
+4th Transylvanian NMR Workshop: “Frontiers of Magnetic Resonance Applications to Nano - and Microscopically Structured Systems” , Cluj-Napoca, September 27 – 29, 2013
+(supported by the Alexander von Humboldt Foundation).

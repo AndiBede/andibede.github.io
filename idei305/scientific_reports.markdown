@@ -4,18 +4,19 @@ order: 107
 title: Scientific Reports
 layout: idei305
 ---
+Short scientific reports on the research progress
 
-home
-============
+Romanian version
 
-### Project title:  
-
-The surface effects on the dynamics of molecules confined inside porous media with magnetic impurities 
----
-
-**Project director:** Prof.dr.fiz. Ioan Ardelean
-
-**Financing interval:** 5.10.2011-30.09.2014
+* Year 2011
+* Year 2012
+* Year 2013
+* Year 2014
 
 
+English version
 
+* Year 2011
+* Year 2012
+* Year 2013
+* Year 2014

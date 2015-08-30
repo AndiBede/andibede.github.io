@@ -4,17 +4,9 @@ order: 105
 title: Envisaged Results
 layout: idei305
 ---
-
-home
-============
-
-### Project title:  
-
-The surface effects on the dynamics of molecules confined inside porous media with magnetic impurities 
----
-
-**Project director:** Prof.dr.fiz. Ioan Ardelean
-
-**Financing interval:** 5.10.2011-30.09.2014
-
-
+* 6 ISI publications having the project director as a corresponding author reporting results of the project and mentioning the financial support of the project;
+* 1 book dedicated to the engineering applications of NMR;
+* 10 conference presentations (oral and poster);
+* 3 PhD thesis guided by the project leader which include scientific results obtained during the project;
+* 1 international workshop organised in Cluj-Napoca;
+* Acquisition of a new Fast Field Cycling NMR relaxometer (unique in Romania).

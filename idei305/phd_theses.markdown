@@ -4,17 +4,21 @@ order: 110
 title: PhD Theses
 layout: idei305
 ---
-
-home
-============
-
-### Project title:  
-
-The surface effects on the dynamics of molecules confined inside porous media with magnetic impurities 
----
-
-**Project director:** Prof.dr.fiz. Ioan Ardelean
-
-**Financing interval:** 5.10.2011-30.09.2014
+PhD theses finalized during the project
 
 
+PhD student: eng. Marius Alexandru Simina (member of the research team)
+Thesis title: Study of cement based porous materials via NMR techniques
+PhD supervisor: Prof.dr. Ioan Ardelean (project director)
+Public presentation: 5.12.2012
+
+PhD student: eng. Sergiu Muncaci (member of the research team)
+Thesis title: The effects of internal gradients on nuclear magnetic resonance measurements of liquids confined inside porous media
+PhD supervisor: Prof.dr. Ioan Ardelean (project director)
+Public presentation: 31.01.2013
+
+
+PhD student: eng. Alexandra Pop (member of the research team)
+Thesis title: Study of silanes and superplasticizers effect on hydration and mechanical properties of cement based materials
+PhD supervisor: Prof.dr. Ioan Ardelean (project director)
+Public presentation: by the end of 2014
