@@ -4,7 +4,7 @@ title: IDEI305
 order: 7
 ---
 
-**[Go to the WEBPAGE of the project PN-II-IDEI-305/2011](http://idei305.weebly.com/){:target="_blank"}**
+**[Go to the WEBPAGE of the project PN-II-IDEI-305/2011](\idei305){:target="_blank"}**
 ============
 
 ### Project title:  
