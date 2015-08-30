@@ -1,25 +1,29 @@
+# site info
 encoding: UTF-8
 timezone: Europe/Bucharest
 url: http://andibede.github.io/
 changefreq: weekly
-
-# site
 title: NMR diffusometry and relaxometry laboratory
 subTitle: site.subtitle
 description:  site.description
 year: 2015
+info:
+    standards: HTML5, CSS
+    components: Jekyll, JQuery, kramdown
+    software: Brackets
 
 # author
-email: email.host
-author: author
+author :
+    name: Dorin Cretu
+    email: cretu.dorin@gmail.com
+    site: cretudorin.github.io
+    location: Cluj-Napoca, Romania
 
-# markdown
+thanks_to: Andrea Bede
+
+#   markdown
 markdown: kramdown
 permalink: pretty
-
-#gems
-#gems:
-#ss  - jekyll-sitemap
 
 # simple form token
 simpleform_token: blank

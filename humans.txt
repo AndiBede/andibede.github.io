@@ -1,0 +1,15 @@
+---
+---                    
+/* TEAM */
+Your title: {{ site.author.name }}     
+Site: {{ site.author.site }}         
+Location: {{ site.author.location }}
+ 
+/* THANKS */				
+Name: {{ site.thanks_to }}
+                            
+/* SITE */                       
+Last update: {{ site.time | date_to_string }}
+Standards: {{ site.info.standards }}             
+Components: {{ site.info.components }}
+Software: {{ site.info.software }}
